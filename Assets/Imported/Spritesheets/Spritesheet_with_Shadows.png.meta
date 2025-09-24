@@ -1,0 +1,3524 @@
+fileFormatVersion: 2
+guid: fba8e9228cca26a42b1478d860e236f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1118
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da973aaf5e711a0448e4f3c82b06e76a
+      internalID: -1459260310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1118
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f588f5710e893e448dbb758a8825d0e
+      internalID: -454949631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1118
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff63e924c9df74dbcb890146dcecee
+      internalID: 20553036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1118
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5005c54bfdd7bb14495ca40aeacd404c
+      internalID: -1096535996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1118
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee780c2c670f34d99a54206ba110d7
+      internalID: 1421840931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1118
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31e4799f952d546860f2adc417c7f2
+      internalID: 764260038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1070
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a33c03ad60394680a750f664b7a74
+      internalID: 1085156077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1070
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc34fe57e58074bbca38789cdb5bba
+      internalID: -787122532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1070
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b13b2f31dc504e9c50e4d844097f3
+      internalID: -1117070145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1070
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cec5ff774b0b84bbf308955aaf672d
+      internalID: 576974518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1070
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697f6ec632ce804a8ce36d1a22c2724
+      internalID: -1767084229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1070
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924fe3dcc4f476468652816c4068f1b
+      internalID: 152888327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1022
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d90e76a5300bd40a3dc02fda188137
+      internalID: -1923309644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1022
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db9efa3cce6e146b5a58adb84f205f
+      internalID: -717494969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1022
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344696aef9d5d0943966e78a55866f66
+      internalID: -2058082854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1022
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc189ab7853f2cf4f864bf3dbf5648b7
+      internalID: 1785209348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1022
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4b0190a485e64ab7f18d2fbc269e5
+      internalID: -2036454813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1022
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f277dec467ac4a4ebd2726cb21a6e9d
+      internalID: 1255735011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 974
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b343501de712844935015a0ab759a3
+      internalID: 365643931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 974
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53236e1ba352d49ae518454bae5872
+      internalID: 1736364895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 974
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8981275cc59f944c8944f3cb66df45d
+      internalID: 1009149191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 974
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbd8abfc5a7494591cf272d121227a
+      internalID: -370602296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 974
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff286bcbfbc63a47ad296cd97e3a991
+      internalID: -1055769196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 974
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d663bb4ef651d80428e6fd5b48c56b0f
+      internalID: 899941432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 926
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a845ab9d5a4bc4c84160aa604af5c5
+      internalID: 1327603993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 926
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2104bc7de312f4f9438a9eae4aa370
+      internalID: 813886057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 926
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012b0a9bc5d1e2428571aed98573653
+      internalID: -924932202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 926
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be0ce3f039d43448467feaf286abf7
+      internalID: -6220450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 926
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c10326c7fe0c64ba56a89da9a9784a
+      internalID: 128883778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 926
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d38bd9d2c0b54793e368c71c0059f
+      internalID: -461887484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 878
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfe8010866f8b43ba5d0d031756d41
+      internalID: 729121481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 878
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0aa3efa83678c4d98f12dd872f57a4
+      internalID: 1358986696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 878
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b80306ae6736e478ba2b6701cf18bc
+      internalID: -781171579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 878
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c56975ad1d4f4a8fd283b1390d71d
+      internalID: -901389944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 878
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67ed3c4dd874043899531162cea822
+      internalID: 1958754437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 878
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d9d0c5a6098b4287d8b105d283512
+      internalID: 2061796955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 830
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e16d1d54cc39408316da633ccdb98
+      internalID: -1499648031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 830
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c26d65390ac2d4aa21f775f36d2b0b
+      internalID: 1817004661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 830
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc4d044b9b6fd459c400f8c04eb5de
+      internalID: -832342962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 830
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef91fb6e072dbd46ba307639d59cc77
+      internalID: -230379060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 830
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe7578ad1c0f04fa03db710e06a845
+      internalID: -366261864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 830
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91667bf4004c54fafa272f5747ecfc
+      internalID: 2009666757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 782
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46cf1b00522fc4eb0973822283cfb9
+      internalID: 229823579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 782
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922b475ebaf27743b5476d15645e7da
+      internalID: 1641402122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 782
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205524f4d787f124b8dc4ceae3565851
+      internalID: 1804635470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 782
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c7be719043454e96ed6610df0d4d3
+      internalID: -49317086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 782
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971768063d6ca5c4eacd1a83cfb9d52c
+      internalID: -277878804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 782
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdba97db838bda429af2447f3ebc297
+      internalID: -676599172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 734
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22b55e38046a046a9a9239d0c815c6
+      internalID: 1028796373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 734
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9d45a5eab1414b84560d97396b60e
+      internalID: -1994845414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 734
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bec61de72e85a44eaf8a369c468163a
+      internalID: -180836915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 734
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74662041f02cf249acdd1f8f9392b4f
+      internalID: 250835567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 686
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078369b4a1bfd44f8703eb238fb0d22
+      internalID: -308477918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 686
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af217a28e59774dbe9cea866392c8c
+      internalID: 1222670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 686
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22671f09c83dbd749a8c2939f4e89240
+      internalID: -1311472156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 686
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e48205aca27fd4eb22242f46b3f1a1
+      internalID: 201789347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 638
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c5ae3b6db926439d49657076d24cd
+      internalID: 1343661940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 638
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0ad6036e1bec46b817953b30ed079
+      internalID: -1986175427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 638
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f4fd147599c146ad979899aef4a6b
+      internalID: -1662616097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 638
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c7c9a7b188aa43a6b1b84e0e6aa9e
+      internalID: 3673540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 590
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec708554e1bbe43af6b807f304c1b7
+      internalID: 1088372046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 590
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766e583fdf49ad4b990d3bb237b70f1
+      internalID: 1884904803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 576
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632e1c13994f474cb8c03059b6fd0f4
+      internalID: 160176797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_63
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 590
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec55047ff93ffc4f83af1c46e28031d
+      internalID: -1024009484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 542
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c4c2a6080195040ad4503c4b9efac2
+      internalID: 730837617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 542
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e648e7fc8833ec45836f4375aba578e
+      internalID: 512005274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 542
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8331862650354897f0745f81aa781
+      internalID: -2927924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 555
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f87278ad0736048a831b41fa6843fd
+      internalID: 1454928394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_68
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 558
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a731beb393854344ab5c4702bf479bc
+      internalID: 123751181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 559
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac092c8be7c064bb464cf532bb87ab
+      internalID: -1439941717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 542
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c559337b74bc174d9e0061825d8703d
+      internalID: -1056052469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 542
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23251cd9f718ebb4dbaee70ed8f53c3d
+      internalID: -686247087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 494
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd5b5ff9d0e4c44a8ca68504475677e
+      internalID: 1658528799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 494
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f32596c757a124c8dd383bed88bbac
+      internalID: 603655954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 494
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32302ac302fe99944946d4b5ce004ea8
+      internalID: -900746993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_75
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 507
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b24fb0b0187247b15cdcb7fad9495
+      internalID: -1292706896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 510
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b826bffd4881468fa5f19ab702628
+      internalID: -1331180495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 511
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8caf23600500f41b8de4966d221683
+      internalID: -1480180671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 494
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46275c2f9c27eb4d9e8d6340842e461
+      internalID: 159079636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865fed760db4e948b446e4860152db0
+      internalID: 1203864815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 446
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946c27c5985326841b0f354a2df721b8
+      internalID: 887328843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 446
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c47c2cc8043b47b45891c98503ce9
+      internalID: 2132782047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 446
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e83ddebf8cae854a92a1ee4855444a4
+      internalID: 1814629815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 459
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c28d3549ff6b4a8fa5f74caa66acf
+      internalID: -1801772284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_84
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 462
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f71c70ff6b3424dba16bba9726d58b
+      internalID: -1758968706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 463
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff95f78527b784ebe4acb10578174f
+      internalID: -1934447245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68a7540dde2ae34b9d529b125d95fdf
+      internalID: 781479916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_87
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 446
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac300ee2dbc622541b53b956d839ec9f
+      internalID: -1883830953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 398
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a383ec1228f464ea8148e0283b3edc
+      internalID: -839655049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 398
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7ac739317d474bae209cf94f840de
+      internalID: 626509400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_90
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 398
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a9ee35b9f57a4f84d8aa5623a749a
+      internalID: 521809465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_91
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 411
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809ffde14dd2584ca5911309b7fcee3
+      internalID: 580573475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 414
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a33f4acedc84f4ea2bfc71b68050ef
+      internalID: 294958417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 415
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c5674c5493164cbc692526021fe62
+      internalID: 351818895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 398
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d54c5127836c4e93606eacf4c0d67
+      internalID: 1307913919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 398
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7226f49f5483459098fac92276d26
+      internalID: 1585110426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 350
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b382c1b30cab044bec5bee0f6e9424
+      internalID: -578235610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 350
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806aa028a101aed43a2ceb0ee18a0215
+      internalID: 102210251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_98
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 350
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9d06e2cbc55844902d636f910d7fb
+      internalID: -1017829702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 344
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8989f9c5bb1deef47b0ced5d3894e537
+      internalID: -1684895917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 346
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dba508e87519d4facebcdf51dc6245
+      internalID: -468604625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_101
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 350
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13d5d48da3b1a045ae91670143a838a
+      internalID: 2022591462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 302
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4833827a6fc5843baceb47dc03f581
+      internalID: -1183917415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 302
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92981e3020787945827ef3ccc7b26c3
+      internalID: -338497242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_104
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 302
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7387885da70dae458f74b35ada9d1e0
+      internalID: -375418222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 284
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6124e4f2b2b04ea21c4d8f80ecac5
+      internalID: 1126729059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 284
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e17345519629248abd5960f5d8e92b
+      internalID: -1541627406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 302
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ca97d0b044884d9af02d5cc242895
+      internalID: 1227747232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 254
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c0529a3cef0f41a5e03d97b5e65c0
+      internalID: -938165639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_109
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 254
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa752055c1026fb4a954dffbd248dc68
+      internalID: -127328776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_110
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 253
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f1e95afc217c4d8efbfcc188688b4
+      internalID: 875965914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 254
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba404e464c5009c438ef9f57faf99b17
+      internalID: -325173165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 254
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ce163bd69372469203944dfe2d67f
+      internalID: -529039746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 254
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c969b108ad04743bb5023dd6931fa3
+      internalID: -305397381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 206
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3eef9f6dd350340a268b773d4d3dab
+      internalID: -236610677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 206
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff022ce5e8ce4d4f81d9d5cf8283015
+      internalID: 1317164915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_116
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 206
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f247f6dbfb204e831a3df38fa96fc
+      internalID: -590213147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_117
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 206
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27b264777f23a4798cfa6872703a2d
+      internalID: 968245975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_118
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 206
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0a9a12cfc0a84397b5637ec0cc1f8
+      internalID: 1865777530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_119
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a0d17ac28fcc74ca7c15a8ebbe8cca
+      internalID: -1076253590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_120
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852b74c3d4971148a66df1694f22101
+      internalID: 1758622791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7d02782cac246458148b96918d5024
+      internalID: -776801311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa1734e48b14a548ae239d5e3addea0
+      internalID: 750172193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfef744bd405aa4e9742b4792c66f3c
+      internalID: 1302790560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_124
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce893d65a025b449eee758edf3bd73
+      internalID: -1705261584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 151
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7e8a3e6f28504a9f1ead595a3d6e3
+      internalID: 425484417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_126
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 150
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9b3e7eb062244ca566ee6e4ecce82
+      internalID: -1109672350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b47b3217b4d2e4e85aebad7591351e
+      internalID: -1947168820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_128
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de2e5defb6e8042a302d272282ac1a
+      internalID: 663192547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_129
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 110
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4e4d45dd0c4b45a3d09e36182ed4d
+      internalID: 1475126647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d43929c1c5f84da4b1a23850ac2e9
+      internalID: 1371868234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_131
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 133
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec0e6f396628b4788b4df94e5940c8
+      internalID: -1213461368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41929667fc1dbe4da04c7c2d8d5509f
+      internalID: 1235972653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 110
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a5f9e2298a4f4ab2db05eed883ad2
+      internalID: -1776540281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_134
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 110
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba80fce9f57adf42b5211d691bd77af
+      internalID: -1322169078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_135
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 108
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6672c5022e1d94caab8a8ef2d10b56
+      internalID: 566715929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_136
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334870c1df3f484885d55e1d71061d5
+      internalID: -1831017023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_137
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 62
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f6b375a6f8ffe44bcfe9b9ba8b3b56
+      internalID: 27769901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_138
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 62
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19fd3144a8d0c4bb135eb5d077c08a
+      internalID: -807331588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_139
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671bcae73dfa5249819e37898783493
+      internalID: -748434338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_140
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3731e2bf3f90c4b91d192ffb805962
+      internalID: 434616719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 40
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284633d35bf46b458e9aa52529401e2
+      internalID: -1503395056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_142
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 65
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008705c012dd94a4db6aa5ae722f5bb1
+      internalID: 1954757495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_143
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 62
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66205b506a788704aab7263556ba2094
+      internalID: 1236592447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_144
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269468a105b256a469774d2982b22e40
+      internalID: -788944244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_145
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a477defc170e74bb6514c7606fd015
+      internalID: -1372602333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_146
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238c4ae78f515e4e9c5c2ad3b3f30ab
+      internalID: -330171603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_147
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573c54aba613c643a535329e40ec8fe
+      internalID: 976218980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_148
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d535fe604dd2e61468e6410fe07066dc
+      internalID: -1759949491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9dc3fdcc3d80943b3eb41f78172a8b
+      internalID: -803277901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909fd53420e941d4a8ab29b4d514b95a
+      internalID: -1363504048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d735599c2b0464db01e3a0285e5d05
+      internalID: -575643154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_152
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582518b9770bc1b408e9d97ac654efdf
+      internalID: -56015798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_153
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045600cfb50ccc04da21316e325af039
+      internalID: 928143081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_with_Shadows_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa267689a561c4489c98aedb45fd75
+      internalID: 780031849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spritesheet_with_Shadows_0: -1459260310
+      Spritesheet_with_Shadows_1: -454949631
+      Spritesheet_with_Shadows_10: -1767084229
+      Spritesheet_with_Shadows_100: -468604625
+      Spritesheet_with_Shadows_101: 2022591462
+      Spritesheet_with_Shadows_102: -1183917415
+      Spritesheet_with_Shadows_103: -338497242
+      Spritesheet_with_Shadows_104: -375418222
+      Spritesheet_with_Shadows_105: 1126729059
+      Spritesheet_with_Shadows_106: -1541627406
+      Spritesheet_with_Shadows_107: 1227747232
+      Spritesheet_with_Shadows_108: -938165639
+      Spritesheet_with_Shadows_109: -127328776
+      Spritesheet_with_Shadows_11: 152888327
+      Spritesheet_with_Shadows_110: 875965914
+      Spritesheet_with_Shadows_111: -325173165
+      Spritesheet_with_Shadows_112: -529039746
+      Spritesheet_with_Shadows_113: -305397381
+      Spritesheet_with_Shadows_114: -236610677
+      Spritesheet_with_Shadows_115: 1317164915
+      Spritesheet_with_Shadows_116: -590213147
+      Spritesheet_with_Shadows_117: 968245975
+      Spritesheet_with_Shadows_118: 1865777530
+      Spritesheet_with_Shadows_119: -1076253590
+      Spritesheet_with_Shadows_12: -1923309644
+      Spritesheet_with_Shadows_120: 1758622791
+      Spritesheet_with_Shadows_121: -776801311
+      Spritesheet_with_Shadows_122: 750172193
+      Spritesheet_with_Shadows_123: 1302790560
+      Spritesheet_with_Shadows_124: -1705261584
+      Spritesheet_with_Shadows_125: 425484417
+      Spritesheet_with_Shadows_126: -1109672350
+      Spritesheet_with_Shadows_127: -1947168820
+      Spritesheet_with_Shadows_128: 663192547
+      Spritesheet_with_Shadows_129: 1475126647
+      Spritesheet_with_Shadows_13: -717494969
+      Spritesheet_with_Shadows_130: 1371868234
+      Spritesheet_with_Shadows_131: -1213461368
+      Spritesheet_with_Shadows_132: 1235972653
+      Spritesheet_with_Shadows_133: -1776540281
+      Spritesheet_with_Shadows_134: -1322169078
+      Spritesheet_with_Shadows_135: 566715929
+      Spritesheet_with_Shadows_136: -1831017023
+      Spritesheet_with_Shadows_137: 27769901
+      Spritesheet_with_Shadows_138: -807331588
+      Spritesheet_with_Shadows_139: -748434338
+      Spritesheet_with_Shadows_14: -2058082854
+      Spritesheet_with_Shadows_140: 434616719
+      Spritesheet_with_Shadows_141: -1503395056
+      Spritesheet_with_Shadows_142: 1954757495
+      Spritesheet_with_Shadows_143: 1236592447
+      Spritesheet_with_Shadows_144: -788944244
+      Spritesheet_with_Shadows_145: -1372602333
+      Spritesheet_with_Shadows_146: -330171603
+      Spritesheet_with_Shadows_147: 976218980
+      Spritesheet_with_Shadows_148: -1759949491
+      Spritesheet_with_Shadows_149: -803277901
+      Spritesheet_with_Shadows_15: 1785209348
+      Spritesheet_with_Shadows_150: -1363504048
+      Spritesheet_with_Shadows_151: -575643154
+      Spritesheet_with_Shadows_152: -56015798
+      Spritesheet_with_Shadows_153: 928143081
+      Spritesheet_with_Shadows_154: 780031849
+      Spritesheet_with_Shadows_16: -2036454813
+      Spritesheet_with_Shadows_17: 1255735011
+      Spritesheet_with_Shadows_18: 365643931
+      Spritesheet_with_Shadows_19: 1736364895
+      Spritesheet_with_Shadows_2: 20553036
+      Spritesheet_with_Shadows_20: 1009149191
+      Spritesheet_with_Shadows_21: -370602296
+      Spritesheet_with_Shadows_22: -1055769196
+      Spritesheet_with_Shadows_23: 899941432
+      Spritesheet_with_Shadows_24: 1327603993
+      Spritesheet_with_Shadows_25: 813886057
+      Spritesheet_with_Shadows_26: -924932202
+      Spritesheet_with_Shadows_27: -6220450
+      Spritesheet_with_Shadows_28: 128883778
+      Spritesheet_with_Shadows_29: -461887484
+      Spritesheet_with_Shadows_3: -1096535996
+      Spritesheet_with_Shadows_30: 729121481
+      Spritesheet_with_Shadows_31: 1358986696
+      Spritesheet_with_Shadows_32: -781171579
+      Spritesheet_with_Shadows_33: -901389944
+      Spritesheet_with_Shadows_34: 1958754437
+      Spritesheet_with_Shadows_35: 2061796955
+      Spritesheet_with_Shadows_36: -1499648031
+      Spritesheet_with_Shadows_37: 1817004661
+      Spritesheet_with_Shadows_38: -832342962
+      Spritesheet_with_Shadows_39: -230379060
+      Spritesheet_with_Shadows_4: 1421840931
+      Spritesheet_with_Shadows_40: -366261864
+      Spritesheet_with_Shadows_41: 2009666757
+      Spritesheet_with_Shadows_42: 229823579
+      Spritesheet_with_Shadows_43: 1641402122
+      Spritesheet_with_Shadows_44: 1804635470
+      Spritesheet_with_Shadows_45: -49317086
+      Spritesheet_with_Shadows_46: -277878804
+      Spritesheet_with_Shadows_47: -676599172
+      Spritesheet_with_Shadows_48: 1028796373
+      Spritesheet_with_Shadows_49: -1994845414
+      Spritesheet_with_Shadows_5: 764260038
+      Spritesheet_with_Shadows_50: -180836915
+      Spritesheet_with_Shadows_51: 250835567
+      Spritesheet_with_Shadows_52: -308477918
+      Spritesheet_with_Shadows_53: 1222670970
+      Spritesheet_with_Shadows_54: -1311472156
+      Spritesheet_with_Shadows_55: 201789347
+      Spritesheet_with_Shadows_56: 1343661940
+      Spritesheet_with_Shadows_57: -1986175427
+      Spritesheet_with_Shadows_58: -1662616097
+      Spritesheet_with_Shadows_59: 3673540
+      Spritesheet_with_Shadows_6: 1085156077
+      Spritesheet_with_Shadows_60: 1088372046
+      Spritesheet_with_Shadows_61: 1884904803
+      Spritesheet_with_Shadows_62: 160176797
+      Spritesheet_with_Shadows_63: -1024009484
+      Spritesheet_with_Shadows_64: 730837617
+      Spritesheet_with_Shadows_65: 512005274
+      Spritesheet_with_Shadows_66: -2927924
+      Spritesheet_with_Shadows_67: 1454928394
+      Spritesheet_with_Shadows_68: 123751181
+      Spritesheet_with_Shadows_69: -1439941717
+      Spritesheet_with_Shadows_7: -787122532
+      Spritesheet_with_Shadows_70: -1056052469
+      Spritesheet_with_Shadows_71: -686247087
+      Spritesheet_with_Shadows_72: 1658528799
+      Spritesheet_with_Shadows_73: 603655954
+      Spritesheet_with_Shadows_74: -900746993
+      Spritesheet_with_Shadows_75: -1292706896
+      Spritesheet_with_Shadows_76: -1331180495
+      Spritesheet_with_Shadows_77: -1480180671
+      Spritesheet_with_Shadows_78: 159079636
+      Spritesheet_with_Shadows_79: 1203864815
+      Spritesheet_with_Shadows_8: -1117070145
+      Spritesheet_with_Shadows_80: 887328843
+      Spritesheet_with_Shadows_81: 2132782047
+      Spritesheet_with_Shadows_82: 1814629815
+      Spritesheet_with_Shadows_83: -1801772284
+      Spritesheet_with_Shadows_84: -1758968706
+      Spritesheet_with_Shadows_85: -1934447245
+      Spritesheet_with_Shadows_86: 781479916
+      Spritesheet_with_Shadows_87: -1883830953
+      Spritesheet_with_Shadows_88: -839655049
+      Spritesheet_with_Shadows_89: 626509400
+      Spritesheet_with_Shadows_9: 576974518
+      Spritesheet_with_Shadows_90: 521809465
+      Spritesheet_with_Shadows_91: 580573475
+      Spritesheet_with_Shadows_92: 294958417
+      Spritesheet_with_Shadows_93: 351818895
+      Spritesheet_with_Shadows_94: 1307913919
+      Spritesheet_with_Shadows_95: 1585110426
+      Spritesheet_with_Shadows_96: -578235610
+      Spritesheet_with_Shadows_97: 102210251
+      Spritesheet_with_Shadows_98: -1017829702
+      Spritesheet_with_Shadows_99: -1684895917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,7 +9,7 @@ public class Player : NetworkBehaviour
     private Quaternion syncedRotation;
 
     [SyncVar(hook = nameof(OnNameChanged))]
-    public string playerName;
+    public string playerName = "Player";
 
     private Rigidbody2D rb;
 
@@ -24,6 +24,13 @@ public class Player : NetworkBehaviour
         if (isClient && isLocalPlayer)
         {
             SetInputManagerPlayer();
+
+            // Отправляем имя на сервер сразу после создания
+            string name = UIManager.Instance.nameInputField.text;
+            if (!string.IsNullOrEmpty(name))
+            {
+                CmdSetPlayerName(name);
+            }
         }
 
         if (isServer)
@@ -32,16 +39,22 @@ public class Player : NetworkBehaviour
         }
     }
 
+    // Команда для установки имени с клиента
+    [Command]
+    public void CmdSetPlayerName(string name)
+    {
+        playerName = name; // SyncVar синхронизирует на всех клиентов
+        Debug.Log($"Сервер установил имя: {name}");
+    }
+
     private void LateUpdate()
     {
-        // Billboard эффект - имя всегда смотрит на камеру
         if (nameCanvas != null && Camera.main != null)
         {
             nameCanvas.transform.rotation = Camera.main.transform.rotation;
         }
     }
 
-    // Вызывается на всех клиентах когда имя синхронизируется
     private void OnNameChanged(string oldName, string newName)
     {
         UpdateNameDisplay(newName);
@@ -52,7 +65,6 @@ public class Player : NetworkBehaviour
         if (nameText != null)
         {
             nameText.text = name;
-            Debug.Log($"Имя игрока обновлено: {name}");
         }
     }
 

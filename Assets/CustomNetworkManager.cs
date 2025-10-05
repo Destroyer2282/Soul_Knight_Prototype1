@@ -9,17 +9,21 @@ public class CustomNetworkManager : NetworkManager
     }
     public override void OnServerAddPlayer(NetworkConnectionToClient conn)
     {
-        // создаём игрока
         GameObject player = Instantiate(playerPrefab);
-
-        // получаем ссылку на Player
         Player pl = player.GetComponent<Player>();
 
-        // достаём имя из UIManager (на клиенте оно было введено)
-        pl.playerName = UIManager.Instance.nameInputField.text;
+        // Получаем имя из UI
+        string name = UIManager.Instance.nameInputField.text;
+        if (string.IsNullOrEmpty(name))
+        {
+            name = "Player" + conn.connectionId; // Имя по умолчанию
+        }
 
-        // добавляем игрока в сеть
+        pl.playerName = name;
+
         NetworkServer.AddPlayerForConnection(conn, player);
+
+        Debug.Log($"Создан игрок с именем: {name}");
     }
 
 }
